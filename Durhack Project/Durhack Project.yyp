@@ -34,6 +34,9 @@
     "IDEVersion": "2023.1100.0.425",
   },
   "resources": [
+    {"id":{"name":"WallSprite","path":"sprites/WallSprite/WallSprite.yy",},},
+    {"id":{"name":"Corridor","path":"tilesets/Corridor/Corridor.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite17","path":"sprites/Sprite17/Sprite17.yy",},},
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},},
     {"id":{"name":"Totally_Lara","path":"sprites/Totally_Lara/Totally_Lara.yy",},},
