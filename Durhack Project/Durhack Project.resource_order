@@ -17,6 +17,11 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Totally_Lara","order":3,"path":"sprites/Totally_Lara/Totally_Lara.yy",},
+    {"name":"Jon","order":2,"path":"sprites/Jon/Jon.yy",},
+    {"name":"LightSword","order":6,"path":"sprites/LightSword/LightSword.yy",},
+    {"name":"DialogueBox","order":5,"path":"sprites/DialogueBox/DialogueBox.yy",},
+    {"name":"Wickit","order":4,"path":"sprites/Wickit/Wickit.yy",},
     {"name":"Lara","order":1,"path":"sprites/Lara/Lara.yy",},
   ],
 }

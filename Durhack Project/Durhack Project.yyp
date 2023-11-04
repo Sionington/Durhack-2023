@@ -34,6 +34,11 @@
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
+    {"id":{"name":"Totally_Lara","path":"sprites/Totally_Lara/Totally_Lara.yy",},},
+    {"id":{"name":"Jon","path":"sprites/Jon/Jon.yy",},},
+    {"id":{"name":"LightSword","path":"sprites/LightSword/LightSword.yy",},},
+    {"id":{"name":"DialogueBox","path":"sprites/DialogueBox/DialogueBox.yy",},},
+    {"id":{"name":"Wickit","path":"sprites/Wickit/Wickit.yy",},},
     {"id":{"name":"Lara","path":"sprites/Lara/Lara.yy",},},
     {"id":{"name":"Clive","path":"sprites/Clive/Clive.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
