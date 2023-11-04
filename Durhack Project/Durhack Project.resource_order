@@ -1,6 +1,10 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"NPCJon","order":4,"path":"objects/NPCJon/NPCJon.yy",},
+    {"name":"Object5","order":2,"path":"objects/Object5/Object5.yy",},
+    {"name":"Clive","order":2,"path":"sprites/Clive/Clive.yy",},
+    {"name":"NPCWikit","order":3,"path":"objects/NPCWikit/NPCWikit.yy",},
     {"name":"Sprite17","order":4,"path":"sprites/Sprite17/Sprite17.yy",},
     {"name":"Sprite16","order":3,"path":"sprites/Sprite16/Sprite16.yy",},
     {"name":"Sprite15","order":2,"path":"sprites/Sprite15/Sprite15.yy",},
@@ -15,6 +19,8 @@
     {"name":"StartButton","order":2,"path":"objects/StartButton/StartButton.yy",},
     {"name":"Empty3","order":4,"path":"sprites/Empty3/Empty3.yy",},
     {"name":"Kyle","order":1,"path":"sprites/Kyle/Kyle.yy",},
+    {"name":"doorTemp","order":3,"path":"sprites/doorTemp/doorTemp.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"enemyBo","order":1,"path":"objects/enemyBo/enemyBo.yy",},
   ],
 }

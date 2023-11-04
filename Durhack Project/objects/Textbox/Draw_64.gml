@@ -3,4 +3,4 @@
 
 
 draw_text(20, 60, "charCount = " + string(charCount));
-draw_text(20, 80, "string lenth = " + string(string_length(text[page])));
+draw_text(20, 80, "string lenth = " + string(string_length(text[encounter][page])));

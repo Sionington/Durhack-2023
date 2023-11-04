@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "sprTextbox",
-  "bbox_bottom": 99,
+  "name": "doorTemp",
+  "bbox_bottom": 63,
   "bbox_left": 0,
-  "bbox_right": 499,
+  "bbox_right": 63,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"452da76e-9f52-4ad0-a29f-a0b00373624d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e06fa909-e6ae-4a66-bba1-a869d3d279f1",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 100,
+  "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"28d7254f-f1a1-49c6-899c-825e6376bbb1","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e2f00561-1818-42cf-af1e-6b7150865942","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "sprTextbox",
+    "name": "doorTemp",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"452da76e-9f52-4ad0-a29f-a0b00373624d","path":"sprites/sprTextbox/sprTextbox.yy",},},},"Disabled":false,"id":"906a730b-55cc-4a37-85c7-cb6f5b017778","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e06fa909-e6ae-4a66-bba1-a869d3d279f1","path":"sprites/doorTemp/doorTemp.yy",},},},"Disabled":false,"id":"794512b8-2cbb-4571-aa9f-55c23c176af6","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 500,
+  "width": 64,
 }

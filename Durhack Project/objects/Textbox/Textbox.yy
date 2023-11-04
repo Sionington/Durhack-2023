@@ -31,9 +31,12 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprTextbox",
-    "path": "sprites/sprTextbox/sprTextbox.yy",
+    "name": "DialogueBox",
+    "path": "sprites/DialogueBox/DialogueBox.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "DialogueBox",
+    "path": "sprites/DialogueBox/DialogueBox.yy",
+  },
   "visible": true,
 }
