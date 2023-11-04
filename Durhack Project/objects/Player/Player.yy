@@ -33,10 +33,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Clive",
-    "path": "sprites/Clive/Clive.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
