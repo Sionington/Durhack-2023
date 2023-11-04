@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
-    {"name":"enemyBo","order":1,"path":"objects/enemyBo/enemyBo.yy",},
     {"name":"Kyle","order":1,"path":"sprites/Kyle/Kyle.yy",},
+    {"name":"enemyBo","order":1,"path":"objects/enemyBo/enemyBo.yy",},
   ],
 }
