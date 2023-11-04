@@ -1,8 +1,13 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"NPCJon","order":4,"path":"objects/NPCJon/NPCJon.yy",},
+    {"name":"Object5","order":2,"path":"objects/Object5/Object5.yy",},
     {"name":"Clive","order":2,"path":"sprites/Clive/Clive.yy",},
+    {"name":"NPCWikit","order":3,"path":"objects/NPCWikit/NPCWikit.yy",},
     {"name":"Kyle","order":1,"path":"sprites/Kyle/Kyle.yy",},
+    {"name":"doorTemp","order":3,"path":"sprites/doorTemp/doorTemp.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"enemyBo","order":1,"path":"objects/enemyBo/enemyBo.yy",},
   ],
 }
