@@ -7,6 +7,9 @@ draw_set_font(fntText);
 
 if (charCount < string_length(text[page])){
 	charCount += 1
+	creator.alarm[0] = 1;
+} else {
+	creator.alarm[2] = 1;
 }
 textPart = string_copy(text[page], 1, charCount);
 

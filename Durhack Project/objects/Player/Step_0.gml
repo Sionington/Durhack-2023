@@ -17,6 +17,20 @@ if (_hspd != 0 || _vspd != 0)
     y = y + _yadd;
 }
 
-if(mouse_check_button_pressed(mb_left)){
-	instance_create_layer(mouse_x,mouse_y, "Text", Textbox);
+if keyboard_check(vk_left){
+	if image_xscale == 1 {
+		image_xscale = -1
+		x = x + 32
+	}
+}
+if keyboard_check(vk_right){
+	if image_xscale == -1 {
+		image_xscale = 1	
+		x = x - 32
+	}
+}
+
+if keyboard_check(vk_enter){
+	image_index = 2;
+	var attackState = true;
 }
