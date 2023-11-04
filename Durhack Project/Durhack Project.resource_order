@@ -1,25 +1,4 @@
 {
-  "FolderOrderSettings": [
-    {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
-    {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
-    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
-    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
-    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
-    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
-    {"name":"Paths","order":4,"path":"folders/Paths.yy",},
-    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
-    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
-    {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
-    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
-    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
-    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
-    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
-    {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-  ],
-  "ResourceOrderSettings": [
-    {"name":"WallSprite","order":17,"path":"sprites/WallSprite/WallSprite.yy",},
-    {"name":"Sprite1","order":16,"path":"sprites/Sprite1/Sprite1.yy",},
-  ],
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"Sprite17","order":4,"path":"sprites/Sprite17/Sprite17.yy",},
@@ -29,6 +8,7 @@
     {"name":"Quit","order":6,"path":"objects/Quit/Quit.yy",},
     {"name":"Restart","order":5,"path":"objects/Restart/Restart.yy",},
     {"name":"Empty2","order":3,"path":"sprites/Empty2/Empty2.yy",},
+    {"name":"Sprite23","order":1,"path":"sprites/Sprite23/Sprite23.yy",},
     {"name":"Death","order":3,"path":"rooms/Death/Death.yy",},
     {"name":"StartRoom","order":1,"path":"rooms/StartRoom/StartRoom.yy",},
     {"name":"Clive","order":2,"path":"sprites/Clive/Clive.yy",},
