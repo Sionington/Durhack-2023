@@ -4,7 +4,7 @@
   "name": "Sprite17",
   "bbox_bottom": 849,
   "bbox_left": 0,
-  "bbox_right": 1272,
+  "bbox_right": 1369,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -93,5 +93,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1273,
+  "width": 1370,
 }
