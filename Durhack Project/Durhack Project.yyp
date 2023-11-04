@@ -43,6 +43,7 @@
     {"id":{"name":"bullet","path":"sprites/bullet/bullet.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
+    {"id":{"name":"Clive","path":"sprites/Clive/Clive.yy",},},
     {"id":{"name":"sprTextbox","path":"sprites/sprTextbox/sprTextbox.yy",},},
     {"id":{"name":"Textbox","path":"objects/Textbox/Textbox.yy",},},
     {"id":{"name":"Lara","path":"sprites/Lara/Lara.yy",},},
