@@ -41,10 +41,14 @@
     {"id":{"name":"LightSword","path":"sprites/LightSword/LightSword.yy",},},
     {"id":{"name":"DialogueBox","path":"sprites/DialogueBox/DialogueBox.yy",},},
     {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
+    {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
+    {"id":{"name":"Quit","path":"objects/Quit/Quit.yy",},},
+    {"id":{"name":"Restart","path":"objects/Restart/Restart.yy",},},
     {"id":{"name":"Wikit","path":"sprites/Wikit/Wikit.yy",},},
     {"id":{"name":"Benedict","path":"sprites/Benedict/Benedict.yy",},},
     {"id":{"name":"bullet","path":"sprites/bullet/bullet.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"Death","path":"rooms/Death/Death.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"StartRoom","path":"rooms/StartRoom/StartRoom.yy",},},
     {"id":{"name":"Clive","path":"sprites/Clive/Clive.yy",},},
@@ -64,6 +68,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"StartRoom","path":"rooms/StartRoom/StartRoom.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Death","path":"rooms/Death/Death.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
