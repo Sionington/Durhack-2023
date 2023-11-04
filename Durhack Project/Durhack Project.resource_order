@@ -1,7 +1,12 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"Sprite17","order":4,"path":"sprites/Sprite17/Sprite17.yy",},
+    {"name":"Sprite16","order":3,"path":"sprites/Sprite16/Sprite16.yy",},
+    {"name":"Sprite15","order":2,"path":"sprites/Sprite15/Sprite15.yy",},
+    {"name":"StartRoom","order":1,"path":"rooms/StartRoom/StartRoom.yy",},
     {"name":"Clive","order":2,"path":"sprites/Clive/Clive.yy",},
+    {"name":"StartButton","order":2,"path":"objects/StartButton/StartButton.yy",},
     {"name":"Kyle","order":1,"path":"sprites/Kyle/Kyle.yy",},
     {"name":"enemyBo","order":1,"path":"objects/enemyBo/enemyBo.yy",},
   ],
