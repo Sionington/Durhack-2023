@@ -3,4 +3,5 @@
   "ResourceOrderSettings": [
     {"name":"SleepingBag","order":1,"path":"sprites/SleepingBag/SleepingBag.yy",},
   ],
+  "ResourceOrderSettings": [],
 }
