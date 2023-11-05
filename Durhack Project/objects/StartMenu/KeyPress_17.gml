@@ -1,5 +1,5 @@
-if(this.visible==1)
+if(StartMenu.visible==1)
 {
-	this.visible==0;
+	StartMenu.visible=0;
 	Controls.visible=1;
 }
