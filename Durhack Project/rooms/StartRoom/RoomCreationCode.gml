@@ -1,0 +1,1 @@
+global.itemLogCount = 0;

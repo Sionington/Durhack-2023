@@ -45,7 +45,7 @@ if instance_exists(enemyBo){
 				if money > 0 {
 					money = money - 20
 				} else if healthcount = 1 {
-					image_angle = 90
+					room_goto(Death)
 				} else {
 					healthcount = healthcount - 1
 				}
@@ -55,4 +55,9 @@ if instance_exists(enemyBo){
 			}
 		}
 	}
+}
+
+if(place_meeting(x,y,itemLog)){
+	global.itemLogCount = global.itemLogCount + 1
+	itemLog.alarm[0] = 1
 }
