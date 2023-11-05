@@ -9,3 +9,4 @@ draw_text(20, 80, "sweets = " + string(global.sweets));
 draw_text(20, 100, "cards = " + string(global.card));
 draw_text(20, 120, "day = " + string(global.day));
 draw_text(20, 140, "spaceship = " + string(global.spaceship));
+draw_text(20, 160, "encounter = " + string(global.encounter));

@@ -28,9 +28,10 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_60B9612C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Controls","path":"objects/Controls/Controls.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-64.0,"y":-32.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":17,"SerialiseWidth":30,"TileCompressedData":[
--20,0,-10,-2147483648,-21,0,-9,-2147483648,-16,0,-2,-2147483648,-3,0,-9,-2147483648,-6,0,1,18,-14,5,1,19,-8,-2147483648,-6,0,1,21,
--14,1,2,22,0,-7,-2147483648,-6,0,1,21,-14,1,2,22,0,-12,-2147483648,2,0,21,-14,1,2,22,0,-13,-2147483648,1,21,
--14,1,2,22,0,-13,-2147483648,1,23,-14,20,2,24,0,-25,-2147483648,5,0,-2147483648,0,-2147483648,0,-27,-2147483648,1,0,-189,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"Corridor","path":"tilesets/Corridor/Corridor.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+-20,0,-10,-2147483648,-21,0,-9,-2147483648,-16,0,-2,-2147483648,-3,0,-9,-2147483648,-6,0,1,18,-14,13,1,19,-8,-2147483648,-6,0,1,9,
+-14,1,2,7,0,-7,-2147483648,-6,0,1,9,-14,1,2,7,0,-12,-2147483648,2,0,9,-14,1,2,22,0,-13,-2147483648,1,9,
+-14,1,2,7,0,-13,-2147483648,1,23,-7,3,1,20,-6,3,2,24,0,-25,-2147483648,5,0,-2147483648,0,-2147483648,0,-27,-2147483648,1,0,
+-189,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"Corridor","path":"tilesets/Corridor/Corridor.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
   "parent": {

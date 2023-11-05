@@ -7,14 +7,13 @@ var _down = keyboard_check(vk_down);
 var _hspd = _right - _left;
 var _vspd = _down - _up;
 
-
 if (StartMenu.visible==0)
 {
 if (_hspd != 0 || _vspd != 0)
 {   
     var _dir = point_direction(0, 0, _hspd, _vspd);
-    var _xadd = lengthdir_x(_spd, _dir);
-    var _yadd = lengthdir_y(_spd, _dir);
+    var _xadd = lengthdir_x(global._spd, _dir);
+    var _yadd = lengthdir_y(global._spd, _dir);
     x = x + _xadd;
     y = y + _yadd;
 }
@@ -65,10 +64,10 @@ if instance_exists(enemyBo){
 }
 
 if(place_meeting(x,y,NPCDino)){
-	_spd = 0
+	global._spd = 0
 	image_xscale = 1
 } else {
-	_spd = 4
+	global._spd = 4
 }
 
 if global.encounter == 1{
