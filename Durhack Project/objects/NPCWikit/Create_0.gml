@@ -16,3 +16,7 @@ myText[1000][0] = "The current interest rate is "
 myText[1000][1] = "How much money do you want to put away?"
 myText[1000][2] = "Press 1 for 25, 2 for 50, 3 for 100, 4 for 100, or space to exit"
 myText[1000][3] = "OK"
+
+myText[6][0] = "Hello there Clive.";
+myText[6][1] = "You got robbed by the Dino?";
+myText[6][2] = "You should go home and rest";

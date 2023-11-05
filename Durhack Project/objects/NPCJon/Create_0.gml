@@ -27,3 +27,8 @@ if global.itemLogCount != 0 {
 
 }
 myText[1][3] = "Or you could put your money away in the bank to the north.";
+
+
+myText[6][0] = "Hello there Clive.";
+myText[6][1] = "You got robbed by the Dino?";
+myText[6][2] = "You should go home and rest";

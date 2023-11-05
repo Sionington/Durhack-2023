@@ -9,3 +9,4 @@ draw_text(20, 120, "encounter = " + string(global.encounter));
 draw_text(20, 40, "bank = " + string(global.bank));
 draw_text(20, 160, "sweets = " + string(global.sweets));
 draw_text(20, 180, "cards = " + string(global.card));
+draw_text(20, 200, "speed = " + string(_spd));

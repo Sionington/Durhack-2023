@@ -5,6 +5,9 @@ if global.enemies = 0{
 		if global.encounter == 1000 || global.encounter == 1100{
 			global.encounter = temp
 		}
-		room_goto(Room2);
+		if global.encounter != 3 {
+			room_goto(Room2);
+		}
+		
 	}
 }

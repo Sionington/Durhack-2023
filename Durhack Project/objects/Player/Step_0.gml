@@ -8,8 +8,7 @@ var _hspd = _right - _left;
 var _vspd = _down - _up;
 
 if (_hspd != 0 || _vspd != 0)
-{
-    var _spd = 4;
+{   
     var _dir = point_direction(0, 0, _hspd, _vspd);
     var _xadd = lengthdir_x(_spd, _dir);
     var _yadd = lengthdir_y(_spd, _dir);
@@ -63,3 +62,23 @@ if(place_meeting(x,y,itemLog)){
 	itemLog.alarm[0] = 1
 }
 
+if(place_meeting(x,y,NPCDino)){
+	_spd = 0
+	image_xscale = 1
+} else {
+	_spd = 4
+}
+
+if global.encounter == 1{
+	global.leaveKyle = false
+} else if global.encounter == 2 && global.itemLogCount != 0 && once == 0 {
+	once = 1
+	global.leaveKyle = false
+}
+
+if(place_meeting(x,y,bed)){
+	if keyboard_check(vk_space){
+		instance_create_layer(0,0,"Text",black)
+		black.alarm[0] = 1*room_speed
+	} 
+}

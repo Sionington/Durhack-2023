@@ -1,0 +1,1 @@
+global.encounter = global.encounter + 1

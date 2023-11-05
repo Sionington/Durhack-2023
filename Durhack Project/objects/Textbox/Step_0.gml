@@ -11,9 +11,9 @@ if (keyboard_check_pressed(vk_space)){
 	}
 }
 if global.encounter == 2 && page == 2 && global.once = 0 && room == Room2 && global.itemLogCount != 0{
-	global.once = 1
-	global.leave = true
-	global.money = global.money + 25
+	global.once = 1;
+	global.leaveKyle = true;
+	global.money = global.money + 25;
 }
 if global.encounter == 1000 && page == 2 {
 	if(keyboard_check_pressed(ord("1"))){
@@ -62,4 +62,10 @@ if global.encounter == 1100 && page == 1 {
 			global.sweets = global.sweets + 1
 		}
 	}
+}
+if global.encounter ==4 && page == 1{
+	global.money = 0
+}
+if global.encounter == 4 && page == 2 {
+	NPCDino.aggressive = false
 }
