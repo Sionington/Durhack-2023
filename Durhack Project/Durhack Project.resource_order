@@ -1,6 +1,5 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"Sprite17","order":14,"path":"sprites/Sprite17/Sprite17.yy",},
     {"name":"Sprite16","order":13,"path":"sprites/Sprite16/Sprite16.yy",},
@@ -9,6 +8,7 @@
     {"name":"DialogueBox","order":3,"path":"sprites/DialogueBox/DialogueBox.yy",},
     {"name":"Wikit","order":4,"path":"sprites/Wikit/Wikit.yy",},
     {"name":"Benedict","order":5,"path":"sprites/Benedict/Benedict.yy",},
+    {"name":"Sprite22","order":1,"path":"sprites/Sprite22/Sprite22.yy",},
     {"name":"bullet","order":6,"path":"sprites/bullet/bullet.yy",},
     {"name":"itemLog","order":1,"path":"objects/itemLog/itemLog.yy",},
     {"name":"Clive","order":7,"path":"sprites/Clive/Clive.yy",},
@@ -19,6 +19,5 @@
     {"name":"DurhackDino","order":11,"path":"sprites/DurhackDino/DurhackDino.yy",},
     {"name":"doorTemp","order":12,"path":"sprites/doorTemp/doorTemp.yy",},
     {"name":"Sprite20","order":15,"path":"sprites/Sprite20/Sprite20.yy",},
-    {"name":"Sprite22","order":1,"path":"sprites/Sprite22/Sprite22.yy",},
   ],
 }
