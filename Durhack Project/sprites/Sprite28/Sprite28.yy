@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Sprite28",
-  "bbox_bottom": 0,
+  "bbox_bottom": 1162,
   "bbox_left": 0,
-  "bbox_right": 0,
+  "bbox_right": 2054,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ef07be36-ce71-498a-8b5d-22ba82468ad6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b430634c-867f-44cd-a7d2-30d0b358db63",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 1163,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4edff54c-f131-4793-b06c-c1d858bddb93","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"907f7e08-7b1a-4be3-b666-de9c46041a7e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ef07be36-ce71-498a-8b5d-22ba82468ad6","path":"sprites/Sprite28/Sprite28.yy",},},},"Disabled":false,"id":"bc25ff83-8e3b-47da-8b9b-fe9be30f0e40","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b430634c-867f-44cd-a7d2-30d0b358db63","path":"sprites/Sprite28/Sprite28.yy",},},},"Disabled":false,"id":"d7f81c42-ea5c-4458-af49-518f26024baa","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 2055,
 }
