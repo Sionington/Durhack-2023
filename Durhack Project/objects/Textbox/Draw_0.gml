@@ -5,13 +5,13 @@ draw_sprite(DialogueBox, 0, xHeight, yHeight);
 
 draw_set_font(fntText);
 
-if (charCount < string_length(text[encounter][page])){
+if (charCount < string_length(text[global.encounter][page])){
 	charCount += 1
 	creator.alarm[0] = 1;
 } else {
 	creator.alarm[2] = 1;
 }
-textPart = string_copy(text[encounter][page], 1, charCount);
+textPart = string_copy(text[global.encounter][page], 1, charCount);
 
 draw_set_halign(fa_center)
 draw_text(xHeight + (boxWidth/2) ,yHeight+yBuffer,name);

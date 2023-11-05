@@ -41,13 +41,14 @@ if instance_exists(enemyBo){
 		if(place_meeting(x,y,enemyBo)){
 			if (attackState == true) {
 				enemyBo.alarm[0] = 1
+				global.enemies = global.enemies - 1
 			} else {
-				if money > 0 {
-					money = money - 20
-				} else if healthcount = 1 {
+				if global.money > 0 {
+					global.money = global.money - 1
+				} else if global.healthcount = 1 {
 					room_goto(Death)
 				} else {
-					healthcount = healthcount - 1
+					global.healthcount = global.healthcount - 1
 				}
 				var kb_dir=sign(x-enemyBo.x)
 				XSpeed=kb_dir*knockBack
@@ -61,3 +62,4 @@ if(place_meeting(x,y,itemLog)){
 	global.itemLogCount = global.itemLogCount + 1
 	itemLog.alarm[0] = 1
 }
+

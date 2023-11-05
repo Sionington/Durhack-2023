@@ -2,5 +2,6 @@
 // You can write your code in this editor
 
 
-attackState = false;
-knockBack = 25;
+if(place_meeting(x,y,Player)){
+		room_goto(Room4);
+	}

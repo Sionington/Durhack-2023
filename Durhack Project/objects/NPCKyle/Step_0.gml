@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+
 if(place_meeting(x,y,Player)){
 
 	if(keyboard_check_pressed(vk_space)){
@@ -14,7 +15,7 @@ if(place_meeting(x,y,Player)){
 		
 	}
 	if(keyboard_check_pressed(vk_backspace)){
-		global.encounter = 1000
+		global.encounter = 1100
 		if(myTextbox == noone){
 			myTextbox = instance_create_layer(x,y,"Text",Textbox);
 			myTextbox.text = myText;
@@ -22,7 +23,7 @@ if(place_meeting(x,y,Player)){
 			myTextbox.name = myName;
 		}
 	}
-	else {	
+	else {
 	}
 } else {
 	if (myTextbox != noone){
@@ -30,5 +31,4 @@ if(place_meeting(x,y,Player)){
 		myTextbox = noone;
 		global.encounter = temp
 	}
-	
 }
