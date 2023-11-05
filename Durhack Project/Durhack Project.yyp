@@ -59,7 +59,6 @@
     {"id":{"name":"Clive","path":"sprites/Clive/Clive.yy",},},
     {"id":{"name":"NPCWikit","path":"objects/NPCWikit/NPCWikit.yy",},},
     {"id":{"name":"StartButton","path":"objects/StartButton/StartButton.yy",},},
-    {"id":{"name":"sprTextbox","path":"sprites/sprTextbox/sprTextbox.yy",},},
     {"id":{"name":"Textbox","path":"objects/Textbox/Textbox.yy",},},
     {"id":{"name":"Lara","path":"sprites/Lara/Lara.yy",},},
     {"id":{"name":"Empty3","path":"sprites/Empty3/Empty3.yy",},},
