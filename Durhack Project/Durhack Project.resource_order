@@ -1,32 +1,4 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [
-<<<<<<< HEAD
-    {"name":"Sprite17","order":21,"path":"sprites/Sprite17/Sprite17.yy",},
-    {"name":"Sprite16","order":19,"path":"sprites/Sprite16/Sprite16.yy",},
-    {"name":"Totally_Lara","order":20,"path":"sprites/Totally_Lara/Totally_Lara.yy",},
-    {"name":"Jon","order":18,"path":"sprites/Jon/Jon.yy",},
-    {"name":"LightSword","order":17,"path":"sprites/LightSword/LightSword.yy",},
-    {"name":"Chocolate","order":16,"path":"sprites/Chocolate/Chocolate.yy",},
-    {"name":"DialogueBox","order":15,"path":"sprites/DialogueBox/DialogueBox.yy",},
-    {"name":"PauseScreen","order":14,"path":"sprites/PauseScreen/PauseScreen.yy",},
-    {"name":"Wikit","order":13,"path":"sprites/Wikit/Wikit.yy",},
-    {"name":"Benedict","order":12,"path":"sprites/Benedict/Benedict.yy",},
-    {"name":"Sprite22","order":11,"path":"sprites/Sprite22/Sprite22.yy",},
-    {"name":"bullet","order":10,"path":"sprites/bullet/bullet.yy",},
-    {"name":"Drink","order":9,"path":"sprites/Drink/Drink.yy",},
-    {"name":"Clive","order":8,"path":"sprites/Clive/Clive.yy",},
-    {"name":"Lara","order":7,"path":"sprites/Lara/Lara.yy",},
-    {"name":"Kyle","order":6,"path":"sprites/Kyle/Kyle.yy",},
-    {"name":"Bo","order":5,"path":"sprites/Bo/Bo.yy",},
-    {"name":"DurhackDino","order":4,"path":"sprites/DurhackDino/DurhackDino.yy",},
-    {"name":"doorTemp","order":3,"path":"sprites/doorTemp/doorTemp.yy",},
-    {"name":"BackGroundTiles","order":22,"path":"sprites/BackGroundTiles/BackGroundTiles.yy",},
-    {"name":"MicroMeteorite","order":2,"path":"sprites/MicroMeteorite/MicroMeteorite.yy",},
-    {"name":"ConstellationCards","order":1,"path":"sprites/ConstellationCards/ConstellationCards.yy",},
-=======
-    {"name":"Sprite28","order":2,"path":"sprites/Sprite28/Sprite28.yy",},
-    {"name":"Controls","order":1,"path":"objects/Controls/Controls.yy",},
->>>>>>> e2a886255ebd9d336ded26972730f4c5ad0e84dc
-  ],
+  "ResourceOrderSettings": [],
 }
