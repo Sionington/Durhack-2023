@@ -5,4 +5,5 @@ Controls.visible=0;
 
 attackState = false;
 knockBack = 25;
-once = 0
+once = 0;
+_spd = 4;

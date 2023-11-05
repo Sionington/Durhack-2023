@@ -1,13 +1,4 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [
-    {"name":"bed","order":4,"path":"objects/bed/bed.yy",},
-    {"name":"black","order":5,"path":"objects/black/black.yy",},
-    {"name":"doorToSchool","order":2,"path":"objects/doorToSchool/doorToSchool.yy",},
-    {"name":"blackness","order":1,"path":"sprites/blackness/blackness.yy",},
-    {"name":"NPCDino","order":1,"path":"objects/NPCDino/NPCDino.yy",},
-    {"name":"doorToHome","order":3,"path":"objects/doorToHome/doorToHome.yy",},
-    {"name":"SleepingBag","order":1,"path":"sprites/SleepingBag/SleepingBag.yy",},
-  ],
   "ResourceOrderSettings": [],
 }
