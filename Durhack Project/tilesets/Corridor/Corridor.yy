@@ -2,7 +2,26 @@
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
   "name": "Corridor",
-  "autoTileSets": [],
+  "autoTileSets": [
+    {"resourceType":"GMAutoTileSet","resourceVersion":"1.0","name":"autotile_1","closed_edge":false,"tiles":[
+        8,
+        24,
+        23,
+        3,
+        19,
+        7,
+        16,
+        2,
+        18,
+        17,
+        9,
+        4,
+        13,
+        12,
+        14,
+        1,
+      ],},
+  ],
   "macroPageTiles": {
     "SerialiseHeight": 0,
     "SerialiseWidth": 0,
@@ -16,8 +35,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "Sprite23",
-    "path": "sprites/Sprite23/Sprite23.yy",
+    "name": "Sprite24",
+    "path": "sprites/Sprite24/Sprite24.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {

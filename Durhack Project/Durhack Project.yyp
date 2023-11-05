@@ -67,6 +67,7 @@
     {"id":{"name":"Bo","path":"sprites/Bo/Bo.yy",},},
     {"id":{"name":"DurhackDino","path":"sprites/DurhackDino/DurhackDino.yy",},},
     {"id":{"name":"doorTemp","path":"sprites/doorTemp/doorTemp.yy",},},
+    {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"NPCLara","path":"objects/NPCLara/NPCLara.yy",},},
     {"id":{"name":"enemyBo","path":"objects/enemyBo/enemyBo.yy",},},
