@@ -33,5 +33,5 @@
     "path": "sprites/doorTemp/doorTemp.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
