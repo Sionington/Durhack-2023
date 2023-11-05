@@ -18,5 +18,6 @@
     {"name":"DurhackDino","order":11,"path":"sprites/DurhackDino/DurhackDino.yy",},
     {"name":"doorTemp","order":12,"path":"sprites/doorTemp/doorTemp.yy",},
     {"name":"Sprite20","order":15,"path":"sprites/Sprite20/Sprite20.yy",},
+    {"name":"Sprite22","order":1,"path":"sprites/Sprite22/Sprite22.yy",},
   ],
 }

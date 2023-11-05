@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.1100.0.425",
   },
   "resources": [
     {"id":{"name":"Corridor","path":"tilesets/Corridor/Corridor.yy",},},
@@ -48,6 +48,7 @@
     {"id":{"name":"Restart","path":"objects/Restart/Restart.yy",},},
     {"id":{"name":"Wikit","path":"sprites/Wikit/Wikit.yy",},},
     {"id":{"name":"Benedict","path":"sprites/Benedict/Benedict.yy",},},
+    {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},},
     {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},},
     {"id":{"name":"bullet","path":"sprites/bullet/bullet.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
