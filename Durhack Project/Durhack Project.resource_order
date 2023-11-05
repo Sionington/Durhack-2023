@@ -4,7 +4,10 @@
     {"name":"Spaceship","order":1,"path":"rooms/Spaceship/Spaceship.yy",},
     {"name":"NPCBen","order":1,"path":"objects/NPCBen/NPCBen.yy",},
     {"name":"Spaceship2","order":2,"path":"rooms/Spaceship2/Spaceship2.yy",},
+    {"name":"credits","order":4,"path":"objects/credits/credits.yy",},
     {"name":"NPCNotLara","order":2,"path":"objects/NPCNotLara/NPCNotLara.yy",},
+    {"name":"Credit","order":2,"path":"sprites/Credit/Credit.yy",},
     {"name":"SpaceShip","order":1,"path":"sprites/SpaceShip/SpaceShip.yy",},
+    {"name":"objSpaceship","order":3,"path":"objects/objSpaceship/objSpaceship.yy",},
   ],
 }

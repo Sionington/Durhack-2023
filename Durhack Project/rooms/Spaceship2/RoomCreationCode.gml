@@ -1,0 +1,1 @@
+global.encounter = 100

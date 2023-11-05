@@ -144,3 +144,9 @@ if global.spaceship == 1 {
 	}
 }
 
+if room == Spaceship2{
+	if keyboard_check_released(vk_tab){
+		instance_create_layer(0,0,"Text",credits)
+	}
+}
+

@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "SpaceShip",
-  "bbox_bottom": 511,
-  "bbox_left": 8,
-  "bbox_right": 495,
-  "bbox_top": 8,
+  "name": "Credit",
+  "bbox_bottom": 1079,
+  "bbox_left": 0,
+  "bbox_right": 1919,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"8968c8aa-021a-4a37-957f-b9c86290521d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7c6261aa-7d38-4df4-bcda-d285170475fb",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 512,
+  "height": 1080,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d8331329-3c85-425d-b273-26fdd7100e78","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1a3b51d9-ea64-40f3-b538-63bb1e6eee96","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "SpaceShip",
+    "name": "Credit",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"8968c8aa-021a-4a37-957f-b9c86290521d","path":"sprites/SpaceShip/SpaceShip.yy",},},},"Disabled":false,"id":"58f4c859-4039-45e5-b699-5cb6a984cb32","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7c6261aa-7d38-4df4-bcda-d285170475fb","path":"sprites/Credit/Credit.yy",},},},"Disabled":false,"id":"1789d14b-f421-450c-a41b-12eccfb22f7e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 512,
+  "width": 1920,
 }

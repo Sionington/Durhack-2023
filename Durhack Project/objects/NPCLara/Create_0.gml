@@ -13,3 +13,5 @@ myText[0][4] = "I saw him heading East";
 myText[6][0] = "Good Evening Son.";
 myText[6][1] = "You got robbed by the Dino?";
 myText[6][2] = "You should get some rest";
+
+myText[100][0] = "See you space cowboy";

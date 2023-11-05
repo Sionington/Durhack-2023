@@ -7,3 +7,4 @@ attackState = false;
 knockBack = 25;
 once = 0
 _spd = 4
+
