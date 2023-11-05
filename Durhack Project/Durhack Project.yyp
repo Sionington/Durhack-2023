@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.1100.0.425",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"Corridor","path":"tilesets/Corridor/Corridor.yy",},},
@@ -80,6 +80,7 @@
     {"id":{"name":"BackGroundTiles","path":"sprites/BackGroundTiles/BackGroundTiles.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"MicroMeteorite","path":"sprites/MicroMeteorite/MicroMeteorite.yy",},},
+    {"id":{"name":"SleepingBag","path":"sprites/SleepingBag/SleepingBag.yy",},},
     {"id":{"name":"NPCLara","path":"objects/NPCLara/NPCLara.yy",},},
     {"id":{"name":"enemyBo","path":"objects/enemyBo/enemyBo.yy",},},
     {"id":{"name":"NPCKyle","path":"objects/NPCKyle/NPCKyle.yy",},},
