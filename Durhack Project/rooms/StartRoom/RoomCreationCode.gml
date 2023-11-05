@@ -1,7 +1,9 @@
 global.itemLogCount = 0;
 global.encounter = -1
 global.bank = 0;
-global.money = 100;
+global.money = 500;
 global.healthcount = 10;
 global.sweets = 0;
-global.card = []
+global.card = ["Big Dipper"]
+global.day = 1
+global.spaceship = 0

@@ -59,7 +59,13 @@ if global.encounter == 1100 && page == 1 {
 	if(keyboard_check_pressed(ord("X"))){
 		if global.money >= 5 {
 			global.money = global.money - 5
-			global.sweets = global.sweets + 1
+			global.sweets = global.sweets + 5
+		}
+	}
+	if(keyboard_check_pressed(ord("C"))){
+		if global.money >= 500 {
+			global.money = global.money - 500
+			global.spaceship = 1
 		}
 	}
 }

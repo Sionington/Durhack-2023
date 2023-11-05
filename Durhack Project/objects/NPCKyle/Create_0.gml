@@ -18,4 +18,4 @@ myText[5][1] = "You should go home and get some sleep";
 
 
 myText[1100][0] = "Hi there Clive!"
-myText[1100][1] = "Z - Pack of Constalation Cards, 10G, X - Large pack of sweets, 5G";
+myText[1100][1] = "Z - Pack of Constalation Cards, 10G, X - Large pack of sweets, 5G, C - Spaceship, 500G";

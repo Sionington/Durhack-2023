@@ -1,13 +1,9 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
-    {"name":"bed","order":4,"path":"objects/bed/bed.yy",},
-    {"name":"black","order":5,"path":"objects/black/black.yy",},
-    {"name":"doorToSchool","order":2,"path":"objects/doorToSchool/doorToSchool.yy",},
-    {"name":"blackness","order":1,"path":"sprites/blackness/blackness.yy",},
-    {"name":"NPCDino","order":1,"path":"objects/NPCDino/NPCDino.yy",},
-    {"name":"doorToHome","order":3,"path":"objects/doorToHome/doorToHome.yy",},
-    {"name":"SleepingBag","order":1,"path":"sprites/SleepingBag/SleepingBag.yy",},
+    {"name":"Spaceship","order":1,"path":"rooms/Spaceship/Spaceship.yy",},
+    {"name":"NPCBen","order":1,"path":"objects/NPCBen/NPCBen.yy",},
+    {"name":"Spaceship2","order":2,"path":"rooms/Spaceship2/Spaceship2.yy",},
+    {"name":"NPCNotLara","order":2,"path":"objects/NPCNotLara/NPCNotLara.yy",},
   ],
-  "ResourceOrderSettings": [],
 }

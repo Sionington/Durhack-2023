@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "doorTemp",
-    "path": "sprites/doorTemp/doorTemp.yy",
+    "name": "SleepingBag",
+    "path": "sprites/SleepingBag/SleepingBag.yy",
   },
   "spriteMaskId": null,
   "visible": true,

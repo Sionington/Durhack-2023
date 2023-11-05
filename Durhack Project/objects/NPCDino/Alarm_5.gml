@@ -4,4 +4,5 @@
 
 
 
-instance_destroy()
+image_angle = 270
+x = x + 64
