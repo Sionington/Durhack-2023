@@ -35,8 +35,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "Sprite24",
-    "path": "sprites/Sprite24/Sprite24.yy",
+    "name": "BackGroundTiles",
+    "path": "sprites/BackGroundTiles/BackGroundTiles.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {
