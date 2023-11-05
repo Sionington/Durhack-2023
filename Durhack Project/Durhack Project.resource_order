@@ -6,6 +6,7 @@
     {"name":"Jon","order":1,"path":"sprites/Jon/Jon.yy",},
     {"name":"LightSword","order":2,"path":"sprites/LightSword/LightSword.yy",},
     {"name":"DialogueBox","order":3,"path":"sprites/DialogueBox/DialogueBox.yy",},
+    {"name":"PauseScreen","order":16,"path":"sprites/PauseScreen/PauseScreen.yy",},
     {"name":"Wikit","order":4,"path":"sprites/Wikit/Wikit.yy",},
     {"name":"Benedict","order":5,"path":"sprites/Benedict/Benedict.yy",},
     {"name":"Sprite22","order":1,"path":"sprites/Sprite22/Sprite22.yy",},
