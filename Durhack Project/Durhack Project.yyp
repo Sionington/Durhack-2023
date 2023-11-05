@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.1100.0.425",
   },
   "resources": [
     {"id":{"name":"Corridor","path":"tilesets/Corridor/Corridor.yy",},},
@@ -47,7 +47,9 @@
     {"id":{"name":"Sprite18","path":"sprites/Sprite18/Sprite18.yy",},},
     {"id":{"name":"Quit","path":"objects/Quit/Quit.yy",},},
     {"id":{"name":"Restart","path":"objects/Restart/Restart.yy",},},
+    {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},},
     {"id":{"name":"PauseScreen","path":"sprites/PauseScreen/PauseScreen.yy",},},
+    {"id":{"name":"Controls","path":"objects/Controls/Controls.yy",},},
     {"id":{"name":"Wikit","path":"sprites/Wikit/Wikit.yy",},},
     {"id":{"name":"StartMenu","path":"objects/StartMenu/StartMenu.yy",},},
     {"id":{"name":"Benedict","path":"sprites/Benedict/Benedict.yy",},},
