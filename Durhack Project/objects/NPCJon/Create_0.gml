@@ -26,3 +26,4 @@ if global.itemLogCount != 0 {
 	myText[2][3] = "Or you could put your money away in the back to the north.";
 
 }
+myText[1][3] = "Or you could put your money away in the bank to the north.";
