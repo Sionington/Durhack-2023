@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"SpaceShip","order":1,"path":"sprites/SpaceShip/SpaceShip.yy",},
+  ],
 }

@@ -77,6 +77,7 @@
     {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},},
     {"id":{"name":"Kyle","path":"sprites/Kyle/Kyle.yy",},},
     {"id":{"name":"Bo","path":"sprites/Bo/Bo.yy",},},
+    {"id":{"name":"SpaceShip","path":"sprites/SpaceShip/SpaceShip.yy",},},
     {"id":{"name":"doorToWikit","path":"objects/doorToWikit/doorToWikit.yy",},},
     {"id":{"name":"blackness","path":"sprites/blackness/blackness.yy",},},
     {"id":{"name":"DurhackDino","path":"sprites/DurhackDino/DurhackDino.yy",},},
