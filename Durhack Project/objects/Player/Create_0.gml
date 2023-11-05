@@ -6,3 +6,5 @@ attackState = false;
 money = 100;
 healthcount = 10;
 knockBack = 25;
+
+StartMenu.visible=0;
