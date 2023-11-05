@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.1100.0.425",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"Corridor","path":"tilesets/Corridor/Corridor.yy",},},
@@ -70,6 +70,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"NPCLara","path":"objects/NPCLara/NPCLara.yy",},},
     {"id":{"name":"enemyBo","path":"objects/enemyBo/enemyBo.yy",},},
+    {"id":{"name":"ConstellationCards","path":"sprites/ConstellationCards/ConstellationCards.yy",},},
     {"id":{"name":"fntText","path":"fonts/fntText/fntText.yy",},},
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
