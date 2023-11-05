@@ -56,6 +56,7 @@
     {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
     {"id":{"name":"Death","path":"rooms/Death/Death.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
+    {"id":{"name":"Drink","path":"sprites/Drink/Drink.yy",},},
     {"id":{"name":"itemLog","path":"objects/itemLog/itemLog.yy",},},
     {"id":{"name":"StartRoom","path":"rooms/StartRoom/StartRoom.yy",},},
     {"id":{"name":"Clive","path":"sprites/Clive/Clive.yy",},},
