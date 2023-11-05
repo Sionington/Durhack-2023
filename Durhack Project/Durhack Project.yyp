@@ -71,6 +71,7 @@
     {"id":{"name":"doorTemp","path":"sprites/doorTemp/doorTemp.yy",},},
     {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Sprite25","path":"sprites/Sprite25/Sprite25.yy",},},
     {"id":{"name":"NPCLara","path":"objects/NPCLara/NPCLara.yy",},},
     {"id":{"name":"enemyBo","path":"objects/enemyBo/enemyBo.yy",},},
     {"id":{"name":"ConstellationCards","path":"sprites/ConstellationCards/ConstellationCards.yy",},},
