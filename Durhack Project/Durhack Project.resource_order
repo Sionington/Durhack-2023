@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+<<<<<<< HEAD
     {"name":"Sprite17","order":21,"path":"sprites/Sprite17/Sprite17.yy",},
     {"name":"Sprite16","order":19,"path":"sprites/Sprite16/Sprite16.yy",},
     {"name":"Totally_Lara","order":20,"path":"sprites/Totally_Lara/Totally_Lara.yy",},
@@ -23,5 +24,9 @@
     {"name":"BackGroundTiles","order":22,"path":"sprites/BackGroundTiles/BackGroundTiles.yy",},
     {"name":"MicroMeteorite","order":2,"path":"sprites/MicroMeteorite/MicroMeteorite.yy",},
     {"name":"ConstellationCards","order":1,"path":"sprites/ConstellationCards/ConstellationCards.yy",},
+=======
+    {"name":"Sprite28","order":2,"path":"sprites/Sprite28/Sprite28.yy",},
+    {"name":"Controls","order":1,"path":"objects/Controls/Controls.yy",},
+>>>>>>> e2a886255ebd9d336ded26972730f4c5ad0e84dc
   ],
 }
