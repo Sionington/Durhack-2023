@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "PauseScreen",
-  "bbox_bottom": 774,
+  "bbox_bottom": 1162,
   "bbox_left": 0,
-  "bbox_right": 1369,
+  "bbox_right": 2054,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 775,
+  "height": 1163,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a36aec78-5c99-464c-91f7-c8bfda4738b5","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1370,
+  "width": 2055,
 }
